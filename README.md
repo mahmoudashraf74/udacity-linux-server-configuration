@@ -8,7 +8,6 @@
 * URL using DNS: [ec2-18-194-200-241.us-west-2.compute.amazonaws.com](http://ec2-18-194-200-241.us-west-2.compute.amazonaws.com/)
 
 
-private key of grader :
 
 
 ### We should connect to the server machine using these two commands
