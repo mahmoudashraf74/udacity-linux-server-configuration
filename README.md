@@ -10,11 +10,6 @@
 
 private key of grader :
 
------BEGIN RSA PRIVATE KEY-----
-
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDZkq6lCxWZIkiuvQpXJzZQowYzsWG2zP9UyQBwh62ghLC46Wh0urEpxk3pA8AylmS0vPK6o2unGPT3tKoSuVxOAEyngxpZw2Uhwxp1hPAsgi2khm/PTZLqFamhWhow5WIWdmkNrtYxk3FFUXLSBv4E5k3VQEJsodgwsUD82x6cUBQ0Wof/zz2zW043wwQgvkt2pZz6iAgMBVIjimv5Q8QM3y1SSY9zQbdthYe6w7Y+PPX9L+zcGS6MaKHa9KJWVY6UG5RnIr0B6c65T3AO/VD1e43SxgO/BhIOOKRGihRY67DAP+8tzn0OODqphZacSgUWDwRRgtBbh3lLcvqeqrvr ashraf@ashraf
-
------END RSA PRIVATE KEY-----
 
 ### We should connect to the server machine using these two commands
 to access the file which contains the pair key of the srever machine
